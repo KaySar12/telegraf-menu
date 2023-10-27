@@ -10,7 +10,6 @@
     "removeComments": true,
     "resolveJsonModule": true,
     "sourceMap": true,
-    "suppressImplicitAnyIndexErrors": true,
     "target": "es5",
     "emitDecoratorMetadata": true,
     "paths": {
